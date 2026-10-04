@@ -13,8 +13,8 @@ Swift Ship Tracker is a simple application designed to track ships and display t
 The project demonstrates basic ship tracking and location visualization using a web-based interface.
 
 ## 👩‍💻 Team Members 
-Durga Sri
-Hasben Farhana 
-Aisath Delisha 
+DurgaSri,
+Hasben Farhana, 
+Aisath Delisha,
 Afrana Renose 
 
